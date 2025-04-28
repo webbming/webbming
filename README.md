@@ -17,9 +17,7 @@ Here are some ideas to get you started:
   
 
 
-### 개발자 Webbming 입니다!👩🏼‍💻
-반려동물 용품 커머스와 커뮤니티를 통합한 **펫토리(Petory)** 프로젝트를 통해  
-도커 기반의 CI/CD 환경과 Spring 기술 스택을 활용한 백엔드 개발을 경험했습니다 🐶🐱
+### 개발자 Webbming👩🏼‍💻
 
 [![webbming's GitHub stats](https://github-readme-stats.vercel.app/api?username=webbming&show_icons=true&theme=transparent)](https://github.com/webbming)
 
@@ -35,9 +33,9 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -49,5 +47,8 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<h2>📦 Project</h2>
+🐾 Petory - 도커 기반의 주문형 웹서비스 [반려동물 커뮤니티 & 쇼핑몰 통합 플랫폼]</br>
+[프로젝트 바로가기 ➡️](https://github.com/webbming/petory)
 
 </div>
